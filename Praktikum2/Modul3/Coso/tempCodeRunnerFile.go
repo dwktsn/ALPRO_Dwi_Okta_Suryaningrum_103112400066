@@ -1,0 +1,1 @@
+"Jadi" , rupiah, "rupiah = ", dollar, "dollar"
