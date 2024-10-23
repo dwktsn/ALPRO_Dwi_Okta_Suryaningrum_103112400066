@@ -1,0 +1,1 @@
+j, alas, tinggi, n 
